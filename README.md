@@ -30,6 +30,8 @@ Project_aws_name/
 ├── ENV_SETUP.md            # 보안 강화를 위한 환경변수 기반 민감 정보(비밀번호) 설정 가이드
 └── README_EC2.md           # 운영 편의를 위한 EC2 인스턴스 개수 동적 조절 및 관리 가이드
 ```
+## 아키텍쳐 설계도 
+<img src="images/terraform_awx.drawio.png" width="600" alt="아키텍처 설계도">
 
 ## 🚀 주요 기능
 
